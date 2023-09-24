@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gym</string>
+    <string name="add_routine">Add routine</string>
+    <string name="create_exercises">Create exercise</string>
+    <string name="delete_routine">Delete</string>
+    <string name="edit_routine">Edit</string>
+
+    <string name="dashboard_description">"Navigate to dashboard"</string>
+    <string name="profile_description">"Navigate to personal profile</string>
+    <string name="scheduler_description">Navigate to routine scheduler</string>
+    <string name="statistics_description">Navigate to advanced statistics</string>
+
+</resources>

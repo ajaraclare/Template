@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141098386796",
+    "project_id": "gymtrack-1c358",
+    "storage_bucket": "gymtrack-1c358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141098386796:android:6ab3f626691040e5b4df49",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141098386796-s20fb0v1scc4q0jj0j5ibgmketmsda0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gym",
+            "certificate_hash": "a38aef5b28553774e733795fa77adb9c59e497bb"
+          }
+        },
+        {
+          "client_id": "141098386796-bla2m3sq79k21j78bq0g46p1gh06gq8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5gAevsL36BZz8ZKQrqhS27w0qxQmzDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141098386796-bla2m3sq79k21j78bq0g46p1gh06gq8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
